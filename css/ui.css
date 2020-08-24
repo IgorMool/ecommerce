@@ -1032,7 +1032,7 @@ a[class*='card'] {
     color: #212529; }
   .menu-category > li > a {
     display: block;
-    padding: 10px 18px; }
+    padding: 10px 0px; }
   .menu-category .submenu {
     display: none;
     margin: 0;
